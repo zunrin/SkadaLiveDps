@@ -1,0 +1,12 @@
+## Interface: 50400
+## Author: Zunrin
+## Version: v0.00.01
+
+## Title: Skada Live Dps
+## Notes: Shows Personal Dps Live (pulls it out of Skada)
+## SavedVariables: SkadaLiveDps_config
+
+LibStub.lua
+LibGraph-2.0\LibGraph-2.0.lua
+SkadaLiveDps.lua
+SkadaLiveDps.xml
